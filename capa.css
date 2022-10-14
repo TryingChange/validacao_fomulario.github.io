@@ -8,7 +8,7 @@
 
 body{
     background-color: #36416d;
-    background-image: url('../images/backgroundform.png');
+    background-image: url('images/backgroundform.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
